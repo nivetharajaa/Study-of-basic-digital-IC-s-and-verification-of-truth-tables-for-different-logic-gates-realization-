@@ -1,5 +1,3 @@
-# Developed by:A.NIVETHA
-# RegisterNumber:212222230101
 
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 # AIM:
